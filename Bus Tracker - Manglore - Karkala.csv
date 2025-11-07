@@ -1,193 +1,204 @@
-bus_name,source,destination,departure_time,arrival_time,nitte,haleangady
-Padmambikaa,Mangalore,Karkala,06:00,07:46,07:26,06:46
-Kusuma,Mangalore,Karkala,06:43,08:23,08:03,07:23
-Vishal,Mangalore,Karkala,06:50,08:30,08:10,07:30
-Navadurga Prasad,Mangalore,Karkala,07:16,08:56,08:36,07:56
-Navadurga Prasad,Mangalore,Karkala,07:21,09:01,08:41,08:01
-Laxmi Ganesh,Mangalore,Karkala,08:00,09:40,09:20,08:40
-,,,,,,
-Padmambikaa,Mangalore,Karkala,08:57,10:37,10:17,09:37
-,,,,,,
-Vishal,Mangalore,Karkala,10:13,11:53,11:33,10:53
-Vishal,Mangalore,Karkala,10:45,12:25,12:05,11:25
-Vishal,Mangalore,Karkala,10:51,12:31,12:11,11:31
-Vishal,Mangalore,Karkala,10:56,12:36,12:16,11:36
-Navadurga Prasad,Mangalore,Karkala,11:04,12:44,12:24,11:44
-Navadurga Prasad,Mangalore,Karkala,11:32,13:12,12:52,12:12
-Vishal,Mangalore,Karkala,11:43,13:23,13:03,12:23
-Laxmi Ganesh,Mangalore,Karkala,12:03,13:43,13:23,12:43
-Reshma,Mangalore,Karkala,12:15,13:55,13:35,12:55
-Padmambikaa,Mangalore,Karkala,12:29,14:09,13:49,13:09
-Padmambikaa,Mangalore,Karkala,12:48,14:28,14:08,13:28
-Vishal,Mangalore,Karkala,13:18,14:58,14:38,13:58
-Padmambikaa,Mangalore,Karkala,13:31,15:11,14:51,14:11
-Christa Kiran,Mangalore,Karkala,13:32,15:12,14:52,14:12
-Padmambikaa,Mangalore,Karkala,13:49,15:29,15:09,14:29
-Vishal,Mangalore,Karkala,14:05,15:45,15:25,14:45
-Ayra,Mangalore,Karkala,14:08,15:48,15:28,14:48
-Vishal,Mangalore,Karkala,14:23,16:03,15:43,15:03
-Shree Annapoorneshwari,Mangalore,Karkala,14:35,16:15,15:55,15:15
-Mercy,Mangalore,Karkala,14:48,16:28,16:08,15:28
-Navadurga Prasad,Mangalore,Karkala,14:52,16:32,16:12,15:32
-Vishal,Mangalore,Karkala,15:06,16:46,16:26,15:46
-Vishal,Mangalore,Karkala,15:20,17:00,16:40,16:00
-Vishal,Mangalore,Karkala,15:26,17:06,16:46,16:06
-Vishal,Mangalore,Karkala,15:29,17:09,16:49,16:09
-Rajarajeshwari,Mangalore,Karkala,16:19,17:59,17:39,16:59
-Laxmi Ganesh,Mangalore,Karkala,16:31,18:11,17:51,17:11
-,,,,,,
-,,,,,,
-Padmambikaa,Mangalore,Karkala,21:41,23:21,23:01,22:21
-Rajarajeshwari,Mangalore,Karkala,21:50,23:30,23:10,22:30
-Vishal,Mangalore,Karkala,06:10,07:50,07:30,06:50
-Padmambikaa,Mangalore,Karkala,09:25,11:05,10:45,10:05
-Laxmi Ganesh,Mangalore,Karkala,16:31,18:11,17:51,17:11
-Vishal,Mangalore,Karkala,11:16,12:56,12:36,11:56
-Padmambikaa,Mangalore,Karkala,09:08,10:48,10:28,09:48
-Vishal,Mangalore,Karkala,15:39,17:19,16:59,16:19
-Padmambikaa,Mangalore,Karkala,13:31,15:11,14:51,14:11
-Padmambikaa,Mangalore,Karkala,08:29,10:09,09:49,09:09
-,,,,,,
-,,,,,,
-Vishal,Karkala,Mangalore,05:25,07:05,,06:25
-Padmambikaa,Karkala,Mangalore,06:20,08:00,,07:20
-Padmambikaa,Karkala,Mangalore,06:40,08:20,,07:40
-Padmambikaa,Karkala,Mangalore,06:50,08:30,,07:50
-Padmambikaa,Karkala,Mangalore,07:00,08:40,,08:00
-Padmambikaa,Karkala,Mangalore,07:10,08:50,,08:10
-Balaji,Karkala,Mangalore,07:20,09:00,,08:20
-His Grace,Karkala,Mangalore,07:28,09:08,,08:28
-Vishal,Karkala,Mangalore,07:37,09:17,,08:37
-Vishal,Karkala,Mangalore,07:45,09:25,,08:45
-Vishal,Karkala,Mangalore,07:50,09:30,,08:50
-Padmashree,Karkala,Mangalore,07:57,09:37,,08:57
-Vishal,Karkala,Mangalore,08:05,09:45,,09:05
-Padmashree,Karkala,Mangalore,08:15,09:55,,09:15
-Vishal,Karkala,Mangalore,08:25,10:05,,09:25
-Bhramaramba,Karkala,Mangalore,08:33,10:13,,09:33
-Vishal,Karkala,Mangalore,08:40,10:20,,09:40
-Pattabhi,Karkala,Mangalore,08:50,10:30,,09:50
-Navadurga Prasad,Karkala,Mangalore,09:00,10:40,,10:00
-Navadurga Prasad,Karkala,Mangalore,09:10,10:50,,10:10
-Vishal,Karkala,Mangalore,09:23,11:03,,10:23
-Bhramaramba,Karkala,Mangalore,09:33,11:13,,10:33
-Lakshmi Ganesh,Karkala,Mangalore,09:45,11:25,,10:45
-Pattabhi,Karkala,Mangalore,09:55,11:35,,10:55
-Padmambikaa,Karkala,Mangalore,10:15,11:55,,11:15
-Padmambikaa,Karkala,Mangalore,10:30,12:10,,11:30
-Padmambikaa,Karkala,Mangalore,10:42,12:22,,11:42
-Padmambikaa,Karkala,Mangalore,10:52,12:32,,11:52
-Krista Kiran,Karkala,Mangalore,11:00,12:40,,12:00
-Vishal,Karkala,Mangalore,11:08,12:48,,12:08
-Balaji,Karkala,Mangalore,11:20,13:00,,12:20
-Padmambikaa,Karkala,Mangalore,11:30,13:10,,12:30
-Navadurga Prasad,Karkala,Mangalore,11:40,13:20,,12:40
-Pattabhi,Karkala,Mangalore,11:47,13:27,,12:47
-Vishal,Karkala,Mangalore,11:55,13:35,,12:55
-Vishal,Karkala,Mangalore,12:05,13:45,,13:05
-Navadurga Prasad,Karkala,Mangalore,12:15,13:55,,13:15
-Padmambikaa,Karkala,Mangalore,12:25,14:05,,13:25
-His Grace,Karkala,Mangalore,12:35,14:15,,13:35
-Navadurga Prasad,Karkala,Mangalore,12:50,14:30,,13:50
-Laxmi Ganesh,Karkala,Mangalore,13:01,14:41,,14:01
-Vishal,Karkala,Mangalore,13:14,14:54,,14:14
-Laxmi Ganesh,Karkala,Mangalore,13:40,15:20,,14:45
-Bhramaramba,Karkala,Mangalore,13:55,15:35,,14:55
-Padmambika,Karkala,Mangalore,14:05,15:45,,15:05
-Padmambika,Karkala,Mangalore,14:15,15:55,,15:15
-Navadurga Prasad,Karkala,Mangalore,14:25,16:05,,15:25
-Padmambika,Karkala,Mangalore,14:38,16:18,,15:38
-Vishal,Karkala,Mangalore,14:50,16:30,,15:50
-Vishal,Karkala,Mangalore,15:05,16:45,,16:05
-Vishal,Karkala,Mangalore,15:17,16:57,,16:17
-Vishal,Karkala,Mangalore,15:30,17:10,,16:30
-Padmambika,Karkala,Mangalore,15:41,17:21,,16:41
-Padmashree,Karkala,Mangalore,15:50,17:30,,16:50
-Vishal,Karkala,Mangalore,16:00,17:40,,17:00
-Vishal,Karkala,Mangalore,16:10,17:50,,17:10
-Balaji,Karkala,Mangalore,16:20,18:00,,17:20
-Vishal,Karkala,Mangalore,16:35,18:15,,17:35
-Navadurga Prasad,Karkala,Mangalore,16:50,18:30,,17:50
-Vishal,Karkala,Mangalore,17:00,18:40,,18:00
-Vishal,Karkala,Mangalore,17:15,18:55,,18:15
-Bhramaramba,Karkala,Mangalore,17:21,19:01,,18:21
-Vishal,Karkala,Mangalore,17:30,19:10,,18:30
-Padmambika,Karkala,Mangalore,17:40,19:20,,18:40
-Navadurga Prasad,Karkala,Mangalore,17:50,19:30,,18:50
-Padmambika,Karkala,Mangalore,18:05,19:45,,19:05
-Gopalakrishna,Karkala,Mangalore,18:15,19:55,,19:15
-Lakshmi Ganesh,Karkala,Mangalore,18:30,20:10,,19:30
-Navadurga Prasad,Karkala,Mangalore,18:40,20:20,,19:40
-Bhramaramba,Karkala,Mangalore,19:05,20:45,,20:05
-His Grace,Karkala,Mangalore,19:23,21:03,,20:23
-Vishal,Karkala,Mangalore,20:00,21:40,,21:00
-Navadurga Prasad,Karkala,Mangalore,20:45,22:25,,21:45
-Aron,Karkala,Mangalore,01:45,03:25,,02:45
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-AKMS,Udupi,Manglore,,,,14:52
-mookambika,Udupi,Manglore,,,,14:54
-Durgamba,Udupi,Manglore,,,,14:56
-geeta,Udupi,Manglore,,,,15:10
-Anand,Udupi,Manglore,,,,15:13
-Vishal,Udupi,Manglore,,,,15:16
-Durgamba,Udupi,Manglore,,,,17:22
-AKMS,,,,,,17:35
-Master,,,,,,17:37
-Anand,,,,,,17:44
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-Reshma,Manglore,Udupi,,,,14:58
-anand,Manglore,Udupi,,,,15:10
-chakra,Manglore,Udupi,,,,15:12
-Annaporneswari ,Manglore,Udupi,,,,15:16
-Master,,,,,,17:27
-Mahesh,,,,,,17:36
-Mahesh,,,,,,17:38
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-Arya,Mangalore,Udupi,,,,10:48
-Kohinoor,,,,,,10:57
-Ganesh,,,,,,10:59
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-Madurya,Udupi,Mangalore,,,,10:50
-APM,,,,,,10:52
-Navadurga,,,,,,10:59
-,,,,,,
-,,,,,,
-Navami,,,,,,13:20
-Anand,,,,,,13:58
+bus_name,source,destination,departure_time,arrival_time,doopada katte,lamina,nitte,manjarapalke,belman,santhoor,kujara katte,adve,,,,haleangady
+Padmambikaa,Mangalore,Karkala,06:00,07:46,,,07:26,,,,,,,,,06:46
+Kusuma,Mangalore,Karkala,06:43,08:23,,,08:03,,,,,,,,,07:23
+Vishal,Mangalore,Karkala,06:50,08:30,,,08:10,,,,,,,,,07:30
+Navadurga Prasad,Mangalore,Karkala,07:16,08:56,,,08:36,,,,,,,,,07:56
+Navadurga Prasad,Mangalore,Karkala,07:21,09:01,,,08:41,,,,,,,,,08:01
+Laxmi Ganesh,Mangalore,Karkala,08:00,09:40,,,09:20,,,,,,,,,08:40
+,,,,,,,,,,,,,,,,
+Padmambikaa,Mangalore,Karkala,08:57,10:37,,,10:17,,,,,,,,,09:37
+,,,,,,,,,,,,,,,,
+Vishal,Mangalore,Karkala,10:13,11:53,,,11:33,,,,,,,,,10:53
+Vishal,Mangalore,Karkala,10:45,12:25,,,12:05,,,,,,,,,11:25
+Vishal,Mangalore,Karkala,10:51,12:31,,,12:11,,,,,,,,,11:31
+Vishal,Mangalore,Karkala,10:56,12:36,,,12:16,,,,,,,,,11:36
+Navadurga Prasad,Mangalore,Karkala,11:04,12:44,,,12:24,,,,,,,,,11:44
+Navadurga Prasad,Mangalore,Karkala,11:32,13:12,,,12:52,,,,,,,,,12:12
+Vishal,Mangalore,Karkala,11:43,13:23,,,13:03,,,,,,,,,12:23
+Laxmi Ganesh,Mangalore,Karkala,12:03,13:43,,,13:23,,,,,,,,,12:43
+Reshma,Mangalore,Karkala,12:15,13:55,,,13:35,,,,,,,,,12:55
+Padmambikaa,Mangalore,Karkala,12:29,14:09,,,13:49,,,,,,,,,13:09
+Padmambikaa,Mangalore,Karkala,12:48,14:28,,,14:08,,,,,,,,,13:28
+Vishal,Mangalore,Karkala,13:18,14:58,,,14:38,,,,,,,,,13:58
+Padmambikaa,Mangalore,Karkala,13:31,15:11,,,14:51,,,,,,,,,14:11
+Christa Kiran,Mangalore,Karkala,13:32,15:12,,,14:52,,,,,,,,,14:12
+Padmambikaa,Mangalore,Karkala,13:49,15:29,,,15:09,,,,,,,,,14:29
+Vishal,Mangalore,Karkala,14:05,15:45,,,15:25,,,,,,,,,14:45
+Ayra,Mangalore,Karkala,14:08,15:48,,,15:28,,,,,,,,,14:48
+Vishal,Mangalore,Karkala,14:23,16:03,,,15:43,,,,,,,,,15:03
+Shree Annapoorneshwari,Mangalore,Karkala,14:35,16:15,,,15:55,,,,,,,,,15:15
+Mercy,Mangalore,Karkala,14:48,16:28,,,16:08,,,,,,,,,15:28
+Navadurga Prasad,Mangalore,Karkala,14:52,16:32,,,16:12,,,,,,,,,15:32
+Vishal,Mangalore,Karkala,15:06,16:46,,,16:26,,,,,,,,,15:46
+Vishal,Mangalore,Karkala,15:20,17:00,,,16:40,,,,,,,,,16:00
+Vishal,Mangalore,Karkala,15:26,17:06,,,16:46,,,,,,,,,16:06
+Vishal,Mangalore,Karkala,15:29,17:09,,,16:49,,,,,,,,,16:09
+Rajarajeshwari,Mangalore,Karkala,16:19,17:59,,,17:39,,,,,,,,,16:59
+Laxmi Ganesh,Mangalore,Karkala,16:31,18:11,,,17:51,,,,,,,,,17:11
+Padmambikaa,Mangalore,Karkala,17:35,19:15,,,18:55,,,,,,,,,18:15
+Vishal,Mangalore,Karkala,17:45,19:25,,,19:05,,,,,,,,,18:25
+Vishal,Mangalore,Karkala,18:05,19:45,,,19:25,,,,,,,,,18:45
+Padmambikaa,Mangalore,Karkala,18:15,19:55,,,19:35,,,,,,,,,18:55
+Vishal,,,19:20,21:00,,,19:20,,,,,,,,,20:00
+Rajarajeshwari,Mangalore,Karkala,21:50,23:30,,,23:10,,,,,,,,,22:30
+Vishal,Mangalore,Karkala,06:10,07:50,,,07:30,,,,,,,,,06:50
+Padmambikaa,Mangalore,Karkala,09:25,11:05,,,10:45,,,,,,,,,10:05
+Laxmi Ganesh,Mangalore,Karkala,16:31,18:11,,,17:51,,,,,,,,,17:11
+Vishal,Mangalore,Karkala,11:16,12:56,,,12:36,,,,,,,,,11:56
+Padmambikaa,Mangalore,Karkala,09:08,10:48,,,10:28,,,,,,,,,09:48
+Vishal,Mangalore,Karkala,15:39,17:19,,,16:59,,,,,,,,,16:19
+Padmambikaa,Mangalore,Karkala,13:31,15:11,,,14:51,,,,,,,,,14:11
+Padmambikaa,Mangalore,Karkala,08:29,10:09,,,09:49,,,,,,,,,09:09
+,,,,,,,,,,,,,,,,
+Vishal,Karkala,Mangalore,05:25,07:05,,,,,,,,,,,,06:25
+Padmambikaa,Karkala,Mangalore,06:20,08:00,,,,,,,,,,,,07:20
+Padmambikaa,Karkala,Mangalore,06:40,08:20,,,,,,,,,,,,07:40
+Padmambikaa,Karkala,Mangalore,06:50,08:30,,,,,,,,,,,,07:50
+Padmambikaa,Karkala,Mangalore,07:00,08:40,,,,,,,,,,,,08:00
+Padmambikaa,Karkala,Mangalore,07:10,08:50,,,,,,,,,,,,08:10
+Balaji,Karkala,Mangalore,07:20,09:00,,,,,,,,,,,,08:20
+His Grace,Karkala,Mangalore,07:28,09:08,,,,,,,,,,,,08:28
+Vishal,Karkala,Mangalore,07:37,09:17,,,,,,,,,,,,08:37
+Vishal,Karkala,Mangalore,07:45,09:25,,,,,,,,,,,,08:45
+Vishal,Karkala,Mangalore,07:50,09:30,,,,,,,,,,,,08:50
+Padmashree,Karkala,Mangalore,07:57,09:37,,,,,,,,,,,,08:57
+Vishal,Karkala,Mangalore,08:05,09:45,,,,,,,,,,,,09:05
+Padmashree,Karkala,Mangalore,08:15,09:55,,,,,,,,,,,,09:15
+Vishal,Karkala,Mangalore,08:25,10:05,,,,,,,,,,,,09:25
+Bhramaramba,Karkala,Mangalore,08:33,10:13,,,,,,,,,,,,09:33
+Vishal,Karkala,Mangalore,08:40,10:20,,,,,,,,,,,,09:40
+Pattabhi,Karkala,Mangalore,08:50,10:30,,,,,,,,,,,,09:50
+Navadurga Prasad,Karkala,Mangalore,09:00,10:40,,,,,,,,,,,,10:00
+Navadurga Prasad,Karkala,Mangalore,09:10,10:50,,,,,,,,,,,,10:10
+Vishal,Karkala,Mangalore,09:23,11:03,,,,,,,,,,,,10:23
+Bhramaramba,Karkala,Mangalore,09:33,11:13,,,,,,,,,,,,10:33
+Lakshmi Ganesh,Karkala,Mangalore,09:45,11:25,,,,,,,,,,,,10:45
+Pattabhi,Karkala,Mangalore,09:55,11:35,,,,,,,,,,,,10:55
+Padmambikaa,Karkala,Mangalore,10:15,11:55,,,,,,,,,,,,11:15
+Padmambikaa,Karkala,Mangalore,10:30,12:10,,,,,,,,,,,,11:30
+Padmambikaa,Karkala,Mangalore,10:42,12:22,,,,,,,,,,,,11:42
+Padmambikaa,Karkala,Mangalore,10:52,12:32,,,,,,,,,,,,11:52
+Krista Kiran,Karkala,Mangalore,11:00,12:40,,,,,,,,,,,,12:00
+Vishal,Karkala,Mangalore,11:08,12:48,,,,,,,,,,,,12:08
+Balaji,Karkala,Mangalore,11:20,13:00,,,,,,,,,,,,12:20
+Padmambikaa,Karkala,Mangalore,11:30,13:10,,,,,,,,,,,,12:30
+Navadurga Prasad,Karkala,Mangalore,11:40,13:20,,,,,,,,,,,,12:40
+Pattabhi,Karkala,Mangalore,11:47,13:27,,,,,,,,,,,,12:47
+Vishal,Karkala,Mangalore,11:55,13:35,,,,,,,,,,,,12:55
+Vishal,Karkala,Mangalore,12:05,13:45,,,,,,,,,,,,13:05
+Navadurga Prasad,Karkala,Mangalore,12:15,13:55,,,,,,,,,,,,13:15
+Padmambikaa,Karkala,Mangalore,12:25,14:05,,,,,,,,,,,,13:25
+His Grace,Karkala,Mangalore,12:35,14:15,,,,,,,,,,,,13:35
+Navadurga Prasad,Karkala,Mangalore,12:50,14:30,,,,,,,,,,,,13:50
+Laxmi Ganesh,Karkala,Mangalore,13:01,14:41,,,,,,,,,,,,14:01
+Vishal,Karkala,Mangalore,13:14,14:54,,,,,,,,,,,,14:14
+Laxmi Ganesh,Karkala,Mangalore,13:40,15:20,,,,,,,,,,,,14:45
+Bhramaramba,Karkala,Mangalore,13:55,15:35,,,,,,,,,,,,14:55
+Padmambika,Karkala,Mangalore,14:05,15:45,,,,,,,,,,,,15:05
+Padmambika,Karkala,Mangalore,14:15,15:55,,,,,,,,,,,,15:15
+Navadurga Prasad,Karkala,Mangalore,14:25,16:05,,,,,,,,,,,,15:25
+Padmambika,Karkala,Mangalore,14:38,16:18,,,,,,,,,,,,15:38
+Vishal,Karkala,Mangalore,14:50,16:30,,,,,,,,,,,,15:50
+Vishal,Karkala,Mangalore,15:05,16:45,,,,,,,,,,,,16:05
+Vishal,Karkala,Mangalore,15:17,16:57,,,,,,,,,,,,16:17
+Vishal,Karkala,Mangalore,15:30,17:10,,,,,,,,,,,,16:30
+Padmambika,Karkala,Mangalore,15:41,17:21,,,,,,,,,,,,16:41
+Padmashree,Karkala,Mangalore,15:50,17:30,,,,,,,,,,,,16:50
+Vishal,Karkala,Mangalore,16:00,17:40,,,,,,,,,,,,17:00
+Vishal,Karkala,Mangalore,16:10,17:50,,,,,,,,,,,,17:10
+Balaji,Karkala,Mangalore,16:20,18:00,,,,,,,,,,,,17:20
+Vishal,Karkala,Mangalore,16:35,18:15,,,,,,,,,,,,17:35
+Navadurga Prasad,Karkala,Mangalore,16:50,18:30,,,,,,,,,,,,17:50
+Vishal,Karkala,Mangalore,17:00,18:40,,,,,,,,,,,,18:00
+Vishal,Karkala,Mangalore,17:15,18:55,,,,,,,,,,,,18:15
+Bhramaramba,Karkala,Mangalore,17:21,19:01,,,,,,,,,,,,18:21
+Vishal,Karkala,Mangalore,17:30,19:10,,,,,,,,,,,,18:30
+Padmambika,Karkala,Mangalore,17:40,19:20,,,,,,,,,,,,18:40
+Navadurga Prasad,Karkala,Mangalore,17:50,19:30,,,,,,,,,,,,18:50
+Padmambika,Karkala,Mangalore,18:05,19:45,,,,,,,,,,,,19:05
+Gopalakrishna,Karkala,Mangalore,18:15,19:55,,,,,,,,,,,,19:15
+Lakshmi Ganesh,Karkala,Mangalore,18:30,20:10,,,,,,,,,,,,19:30
+Navadurga Prasad,Karkala,Mangalore,18:40,20:20,,,,,,,,,,,,19:40
+Bhramaramba,Karkala,Mangalore,19:05,20:45,,,,,,,,,,,,20:05
+His Grace,Karkala,Mangalore,19:23,21:03,,,,,,,,,,,,20:23
+Vishal,Karkala,Mangalore,20:00,21:40,,,,,,,,,,,,21:00
+Navadurga Prasad,Karkala,Mangalore,20:45,22:25,,,,,,,,,,,,21:45
+Aron,Karkala,Mangalore,01:45,03:25,,,,,,,,,,,,02:45
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+AKMS,Udupi,Manglore,,,,,,,,,,,,,,14:52
+mookambika,Udupi,Manglore,,,,,,,,,,,,,,14:54
+Durgamba,Udupi,Manglore,,,,,,,,,,,,,,14:56
+geeta,Udupi,Manglore,,,,,,,,,,,,,,15:10
+Anand,Udupi,Manglore,,,,,,,,,,,,,,15:13
+Vishal,Udupi,Manglore,,,,,,,,,,,,,,15:16
+Durgamba,Udupi,Manglore,,,,,,,,,,,,,,17:22
+AKMS,Udupi,Manglore,,,,,,,,,,,,,,17:35
+Master,Udupi,Manglore,,,,,,,,,,,,,,17:37
+Anand,Udupi,Manglore,,,,,,,,,,,,,,17:44
+Master,Udupi,Manglore,,,,,,,,,,,,,,10:12
+Master,Udupi,Manglore,,,,,,,,,,,,,,19:00
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Reshma,Manglore,Udupi,,,,,,,,,,,,,,14:58
+anand,Manglore,Udupi,,,,,,,,,,,,,,15:10
+chakra,Manglore,Udupi,,,,,,,,,,,,,,15:12
+Annaporneswari ,Manglore,Udupi,,,,,,,,,,,,,,15:16
+Master,Manglore,Udupi,,,,,,,,,,,,,,17:27
+Mahesh,Manglore,Udupi,,,,,,,,,,,,,,17:36
+Mahesh,Manglore,Udupi,,,,,,,,,,,,,,17:38
+Navadurga Prasad,Manglore,Udupi,,,,,,,,,,,,,,15:40
+Akash,Manglore,Manipal,,,,,,,,,,,,,,19:10
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Arya,Mangalore,Udupi,,,,,,,,,,,,,,10:48
+Kohinoor,Mangalore,Udupi,,,,,,,,,,,,,,10:57
+Ganesh,Mangalore,Udupi,,,,,,,,,,,,,,10:59
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Madurya,Udupi,Mangalore,,,,,,,,,,,,,,10:50
+APM,Udupi,Mangalore,,,,,,,,,,,,,,10:52
+Navadurga,Udupi,Mangalore,,,,,,,,,,,,,,10:59
+Navami,,,,,,,,,,,,,,,,13:20
+Anand,,,,,,,,,,,,,,,,13:58
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Pragathi,kateel,Mangalore,,,,,,,,,,,,,,11:25
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Nandini,Mangalore,Kateel,,,,,,,,,,,,,,18:50
